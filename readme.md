@@ -2,10 +2,6 @@
 
 A modern, real-time chat application built with Node.js and Socket.IO that enables users to communicate across multiple chat rooms with a sleek, responsive interface.
 
-## 🚀 Live Demo
-
-[View Live Application](https://github.com/oleksandr-kovalchuk/node-chat)
-
 ## 📋 Description
 
 This is a full-featured chat application that allows users to:
